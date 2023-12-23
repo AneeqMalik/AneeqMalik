@@ -4,7 +4,23 @@ Hi 👋 My name is Aneeq Malik
 Software Engineer
 -----------------
 
-Bridging the Divide: From Pixels to Cloud, I Weave the Fabric of Innovation I'm not just a software engineer, I'm a technological alchemist. I take raw ideas and transform them into seamless, cross-platform mobile experiences that captivate users and redefine industries. Whether it's crafting elegant UIs that dance across the screen or building robust backends that hum in the cloud, I thrive in the nexus of creativity and technical prowess. My toolbox? A potent blend of: * Cross-Platform Mobile App Development: I speak the languages of native, hybrid, and progressive web apps (React Native, Flutter), weaving them into experiences that transcend device boundaries. * MERN Stack Mastery: MongoDB, Express, React, and NodeJS are my instruments of choice, composing symphonies of efficient, scalable web applications. * Cloud Engineering Virtuoso: Azure and GCP are my playgrounds, where I orchestrate infrastructure like a maestro, ensuring robust, secure deployments. But I'm more than just code and cloud. I'm a passionate problem solver, a relentless innovator, and a firm believer in collaboration. I bring infectious enthusiasm to every project, fueling teams with my can-do spirit and contagious drive. What won’t you find on my resume? * Fear of the unknown. I embrace challenges, diving headfirst into new technologies and uncharted territories. * Monotony. My mind craves puzzles, and I find joy in dissecting complex problems and crafting elegant solutions. * A lone wolf mentality. I believe in the power of synergy, working together with diverse teams to build something truly remarkable. So, if you're looking for a software engineer who: * Breaks the mold, crafting experiences that transcend platforms and expectations. * Thinks in symphonies, building robust, interconnected systems that sing in perfect harmony. * Leads with passion, infusing projects with enthusiasm and a relentless drive to succeed. Then let's connect. I'm eager to hear your vision and craft the next digital masterpiece, together. P.S. Yes, I build tech marvels, but I still haven't mastered folding a fitted sheet. Let's just say my superpowers have their limits.
+### Bridging the Divide: From Pixels to Cloud, I Weave the Fabric of Innovation
+
+
+I'm not just a software engineer, I'm a technological alchemist. I take raw ideas and transform them into seamless, cross-platform mobile experiences that captivate users and redefine industries. Whether it's crafting elegant UIs that dance across the screen or building robust backends that hum in the cloud, I thrive in the nexus of creativity and technical prowess. 
+
+#### My toolbox? A potent blend of: 
+* Cross-Platform Mobile App Development: I speak the languages of native, hybrid, and progressive web apps (React Native, Flutter), weaving them into experiences that transcend device boundaries.
+* MERN Stack Mastery: MongoDB, Express, React, and NodeJS are my instruments of choice, composing symphonies of efficient, scalable web applications.
+* Cloud Engineering Virtuoso: Azure and GCP are my playgrounds, where I orchestrate infrastructure like a maestro, ensuring robust, secure deployments. But I'm more than just code and cloud. I'm a passionate problem solver, a relentless innovator, and a firm believer in collaboration. I bring infectious enthusiasm to every project, fueling teams with my can-do spirit and contagious drive.
+  
+#### What won’t you find on my resume? 
+* Fear of the unknown. I embrace challenges, diving headfirst into new technologies and uncharted territories.
+* Monotony. My mind craves puzzles, and I find joy in dissecting complex problems and crafting elegant solutions.
+* A lone wolf mentality. I believe in the power of synergy, working together with diverse teams to build something truly remarkable. So, if you're looking for a software engineer who: * Breaks the mold, crafting experiences that transcend platforms and expectations.
+* Thinks in symphonies, building robust, interconnected systems that sing in perfect harmony.
+* Leads with passion, infusing projects with enthusiasm and a relentless drive to succeed. Then let's connect. I'm eager to hear your vision and craft the next digital masterpiece, together.
+* P.S. Yes, I build tech marvels, but I still haven't mastered folding a fitted sheet. Let's just say my superpowers have their limits.
 
 * 🌍  I'm based in Karchi
 * ✉️  You can contact me at [aneeqkarimmalik@gmail.com](mailto:aneeqkarimmalik@gmail.com)
