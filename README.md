@@ -22,7 +22,7 @@ I'm not just a software engineer, I'm a technological alchemist. I take raw idea
 * Leads with passion, infusing projects with enthusiasm and a relentless drive to succeed. Then let's connect. I'm eager to hear your vision and craft the next digital masterpiece, together.
 * P.S. Yes, I build tech marvels, but I still haven't mastered folding a fitted sheet. Let's just say my superpowers have their limits.
 
-* 🌍  I'm based in Karchi
+* 🌍  I'm based in Karachi
 * ✉️  You can contact me at [aneeqkarimmalik@gmail.com](mailto:aneeqkarimmalik@gmail.com)
 
 ### Skills
